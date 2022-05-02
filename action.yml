@@ -16,5 +16,5 @@ outputs:
       a job).
 
 runs:
-  using: 'docker'
-  image: 'docker://ghcr.io/laminas/laminas-ci-matrix:1'
+  using: "docker"
+  image: "Dockerfile"
